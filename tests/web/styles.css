@@ -1,0 +1,31 @@
+* {
+    background-color: #000;
+}
+
+#click {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 20%;
+    height: 50px;
+    border: 3px solid #0d6335;
+    border-radius: 5px;
+    position: absolute;
+    background-color: #22ff88;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#clicks {
+    left: 50%;
+    top: calc(50% + 100px);
+    transform: translate(-50%, -50%);
+    width: 20%;
+    height: 50px;
+    border-radius: 5px;
+    position: absolute;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}

@@ -1,0 +1,1 @@
+.\tcomp.bat && .\run.bat
